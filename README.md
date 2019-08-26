@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), which interacts with the BackEnd part (which is developed using Spring Framework) using the Http module
 
 ## Available Scripts
 
